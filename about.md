@@ -2,6 +2,7 @@
 layout: page
 title: 关于我 
 ---
+<font size = 4>
 
 五道口计算机学院在读研究生
 <p>
@@ -14,7 +15,7 @@ mail: likewind1993@qq.com
 Github: https://github.com/likewind1993/
 <p>
 谢谢~
-
+</font>
 {% include comments.html %}
 
 
